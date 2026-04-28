@@ -1,0 +1,3 @@
+[submodule "src/shared/alice-ui"]
+	path = src/shared/alice-ui
+	url = https://github.com/3lzaxl0/alice-ui-vue.git
