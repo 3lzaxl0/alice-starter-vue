@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+@import '../shared/alice-ui/alice.css';
+
+@theme {
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
